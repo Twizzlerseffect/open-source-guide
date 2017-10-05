@@ -28,7 +28,7 @@ Escrever muitas coisas é um dos passos mais importantes como um mantenedor.
 
 Documentar não somente clarifica suas próprias ideias, mas também ajuda outras pessoas a entenderem o que você precisa ou espera, antes mesmo delas perguntarem.
 
-Escrever sobre o projeto facilita você dizer não quando algo não está dentro do escopo. Isso também ajuda outras pessoas a iniciarem as contribuições e te ajudarem. Nunca se sabe quem pode estar lendo ou usando seu projeto.
+Escrever sobre o projeto facilita você dizer "não" quando algo não está dentro do escopo. Isso também ajuda outras pessoas a iniciarem as contribuições e te ajudarem. Nunca se sabe quem pode estar lendo ou usando seu projeto.
 
 Mesmo que você não use parágrafos completos, separar em pequenos itens continua sendo melhor que não escrever nada.
 
@@ -63,33 +63,33 @@ Se manter seu projeto é algo de meio período ou foi puramente voluntário, sej
 Eis algumas regras que valem a pena escrever sobre:
 
 * Como a contribuição é avaliada e aceita (_Elas precisam de testes? Um template de Issue?_)
-* Os tipos de contribuição que você vai aceitar (_Você só precisa de ajuda com certa parte do código?_)
-* Quando é OK te cobrar por uma resposta (_ex. "Espere uma resposta do mantenedor em até 7 dias. Se você não obteve resposta, sinta-se a vontade para comentar na thread."_)
+* Os tipos de contribuições que você vai aceitar (_Você só precisa de ajuda com certa parte do código?_)
+* Quando é "ok" te cobrar por uma resposta (_ex. "Espere uma resposta do mantenedor em até 7 dias. Se você não obteve resposta, sinta-se a vontade para comentar na thread."_)
 * Quanto tempo você gasta no projeto (_ex. "Nós gastamos somente 5 horas por semana trabalhando neste projeto"_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), e [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) são vários examples de projetos com regras básicas para mantenedores e contribuidores.
 
 ### Mantenha a comunicação pública
 
-Não se esqueça de documentar suas interações também. Sempre que puder, mantenha a comunicação sobre o projeto pública. Se alguém tentar te contatar de forma privada para discutir algum recurso novo ou ajuda requerida, educadamente direcione para um canal público, como uma lista de discussão ou uma thread de Issue.
+Não se esqueça de documentar suas interações também. Sempre que puder, mantenha a comunicação sobre o projeto pública. Se alguém tentar te contatar de forma privada para discutir algum recurso novo ou ajuda requerida, educadamente direcione para um canal público, como uma lista de discussão ou uma thread de issue.
 
 Se você se encontrar com outros mantenedores ou tomar uma grande decisão de forma privada, documente essas discussões publicamente, mesmo que seja somente postar algumas notas rápidas.
 
 Dessa forma, qualquer um que se juntar à sua comunidade vai ter acesso às mesmas informações que alguém que esteve lá por anos.
 
-## Aprendendo a dizer não
+## Aprendendo a dizer "não"
 
-Você escreveu coisas. Idealmente, todo mundo vai ler sua documentação, mas na realidade, você vai ter que lembrar os outros que ela existe.
+Você escreveu coisas. Idealmente, todo mundo vai ler sua documentação, mas na realidade, você vai ter que lembrar aos outros que ela existe.
 
-Ter tudo escrito, entretanto, ajuda a tornar menos pessoal as situações em quando você precisar impor alguma regra.
+Ter tudo escrito, entretanto, ajuda a tornar menos pessoal as situações de quando você precisar impor alguma regra.
 
-Dizer não pode ser chato, mas _"Sua contribuição não bate com os critérios do projeto"_ é menos pessoal que _"Eu não gostei da sua contribuição"_.
+Dizer "não" pode ser chato, mas _"Sua contribuição não bate com os critérios do projeto"_ é menos pessoal que _"Eu não gostei da sua contribuição"_.
 
-Dizer não se aplica a várias situações que você vai cruzar como um mantenedor: pedidos de novas funcionalidades que não entram no escopo, perda de rumo em discussões, fazer trabalho desnecessário para outros.
+Dizer "não" se aplica a várias situações que você vai cruzar como um mantenedor: pedidos de novas funcionalidades que não entram no escopo, perda de rumo em discussões, fazer trabalho desnecessário para outros.
 
 ### Mantenha a discussão amigável
 
-Um dos lugares mais importantes que você vai aprender a dizer não é em filas de Issues e Pull requests. Como um responsável pelo projeto, você vai acabar recebendo sugestões que não quer aceitar.
+Um dos lugares mais importantes que você vai aprender a dizer não é em filas de issues e pull requests. Como um responsável pelo projeto, você vai acabar recebendo sugestões que não quer aceitar.
 
 Talvez a contribuição mude o escopo do seu projeto ou não bate com sua visão. Talvez a ideia seja boa, mas a implementação é fraca.
 
@@ -99,15 +99,15 @@ Se você receber uma contribuição que não quer aceitar, sua primeira reação
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/869950?v=3&s=400" class="pquote-avatar" alt="avatar" alt="@KrauseFx avatar">
-  A chave para lidar com o suporte de projetos open source de grande escala é manter os Issues rodando. Tente evitar que os Issues fiquem estagnados. Se você é um desenvolvedor iOS sabe como é frustrante enviar radares. Você pode ter um retorno 2 anos depois e ouvir para tentar com a nova versão do iOS.
+  A chave para lidar com o suporte de projetos open source de grande escala é manter os issues em movimento. Tente evitar que os issues fiquem estagnados. Se você é um desenvolvedor iOS sabe como é frustrante enviar Radars. Você pode ter um retorno 2 anos depois e ouvir para tentar com a nova versão do iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Escalando comunidades open source"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Não deixe uma contribuição despercebida em aberto porque você se sente culpado ou quer ser legal. Com o tempo, seus Issues e Pull requests não respondidas vão fazer o trabalho no seu projeto parecer muito mais estressante e intimidante.
+Não deixe uma contribuição despercebida em aberto porque você se sente culpado ou quer ser legal. Com o tempo, seus issues e pull requests não respondidas vão fazer o trabalho no seu projeto parecer muito mais estressante e intimidante.
 
-É melhor imediatamente fechar as contribuições que você sabe que não quer aceitar. Se seu projeto já sofre com um backlog muito grande, @steveklabnik tem sugestões para [triar Issues de forma eficiente](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+É melhor imediatamente fechar as contribuições que você sabe que não quer aceitar. Se seu projeto já sofre com um backlog muito grande, @steveklabnik tem sugestões para [triar issues de forma eficiente](http://words.steveklabnik.com/how-to-be-an-open-source-gardener).
 
 Além disso, ignorar contribuições envia um sinal negativo para sua comunidade. Contribuir para um projeto pode ser intimidante, especialmente se é a primeira vez de alguém. Mesmo que você não aceite suas contribuições, reconheça a pessoa por trás dela e agradeça o interesse. Isso é um grande elogio!
 
@@ -115,33 +115,33 @@ Se você não quer aceitar a contribuição:
 
 * **Agradeça** pela contribuição
 * **Explique porque ela não se aplica** no escopo do seu projeto, e ofereça sugestões para melhorias, se você puder. Seja gentil, mas firme.
-* **Link para documentações relevantes**, se você tiver. Se você perceber muitas requisições por coisas  que você não quer aceitar, adicione-as na sua documentação para evitar que você se repita muito.
+* **Link para documentações relevantes**, se você tiver. Se você perceber muitas requisições por coisas que você não quer aceitar, adicione-as na sua documentação para evitar que você se repita muito.
 * **Feche a requisição**
 
-Você não deve precisar de mais que 1-2 sentenças para responder. Por exemplo, quando um usuário do [celery](https://github.com/celery/celery/) reportou um erro relacionado ao Windows, @berkerpeksag [respondeu com](https://github.com/celery/celery/issues/3383):
+Você não deve precisar de mais que 1 ou 2 sentenças para responder. Por exemplo, quando um usuário do [celery](https://github.com/celery/celery/) reportou um erro relacionado ao Windows, @berkerpeksag [respondeu com](https://github.com/celery/celery/issues/3383):
 
 ![celery screenshot](/assets/images/best-practices/celery.png)
 
-Se a dificuldade em dizer não te assusta, você não está sozinho. Assim como @jessfraz [colocou](https://blog.jessfraz.com/post/the-art-of-closing/):
+Se a dificuldade em dizer "não" te assusta, você não está sozinho. Assim como @jessfraz [colocou](https://blog.jessfraz.com/post/the-art-of-closing/):
 
 > Eu falei com mantenedores de diferentes projetos open source, Mesos, Kubernetes, Chromium, e todos eles concordam que a parte mais difícil de ser um mantenedor é dizer "Não" para patches que você não quer.
 
-Não se sinta culpado sobre não querer aceitar a contribuição de alguém. A primeira regra para o open source, [de acordo com](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"O não é temporário, o sim é para sempre"_ Enquanto empatizar com o entusiasmo de outras pessoas é uma coisa boa, rejeitar uma contribuição não é o mesmo que rejeitar a pessoa por trás dela.
+Não se sinta culpado sobre não querer aceitar a contribuição de alguém. A primeira regra para o open source, [de acordo com](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"O não é temporário, o sim é para sempre"_ Embora ter empatia com o entusiasmo de outras pessoas é uma coisa boa, rejeitar uma contribuição não é o mesmo que rejeitar a pessoa por trás dela.
 
-Por fim, se uma contribuição não é boa o suficiente, você não tem obrigação de aceitá-la. Seja gentil e responsivo quando as pessoas contribuírem para seu projeto, mas só aceite mudanças que você realmente acredita que farão seu projeto melhorar. Quanto mais praticar dizer não, mais fácil fica. Prometo.
+Por fim, se uma contribuição não é boa o suficiente, você não tem obrigação de aceitá-la. Seja gentil e responsivo quando as pessoas contribuírem para seu projeto, mas só aceite mudanças que você realmente acredita que farão seu projeto melhorar. Quanto mais praticar dizer "não", mais fácil fica. Prometo.
 
 ### Seja proativo
 
-Para reduzir o volume de contribuições indesejadas, em primeiro lugar explique o processo do seu projeto para envio e aceitação de contribuições no seu guia de contribuição.
+Para reduzir o volume de contribuições indesejadas, em primeiro lugar explique o processo do seu projeto para envio e aceitação de contribuições no seu guia de contribuições.
 
-Se você estiver recebendo muitas contribuições de baixa qualidade, peça aos contribuintes que façam um trabalho em antemão, como por exemplo:
+Se você estiver recebendo muitas contribuições de baixa qualidade, peça aos contribuidores que façam um trabalho de antemão, como por exemplo:
 
-* Preencha um template ou checklist para Issues e Pull requests
-* Abra um novo Issue ante de enviar um Pull request
+* Preencha um template ou checklist para issues e pull requests
+* Abra um novo issue antes de enviar um pull request
 
-Se eles não seguirem as regras, feche imediatamente o Issue e aponte para sua documentação.
+Se eles não seguirem as regras, feche imediatamente o issue e aponte para sua documentação.
 
-Enquanto essa abordagem pode parecer rude no começo, ser proativo é na verdade bom para as duas partes. Isso reduz as chances de que alguém vai colocar muitas horas perdidas de trabalho em um Pull request que você não vai aceitar. E isso faz sua carga de trabalho mais fácil de gerenciar.
+Embora essa abordagem possa parecer rude no começo, ser proativo é na verdade bom para as duas partes. Isso reduz as chances de que alguém vai colocar muitas horas perdidas de trabalho em um pull request que você não vai aceitar. E isso faz sua carga de trabalho mais fácil de gerenciar.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/125011" class="pquote-avatar" alt="avatar">
@@ -151,13 +151,13 @@ Enquanto essa abordagem pode parecer rude no começo, ser proativo é na verdade
   </p>
 </aside>
 
-Às vezes, quando você diz não, seu potencial contribuidor pode se sentir chateado ou criticar sua decisão. Se o comportamento se tornar hostil, [siga esses passos para contornar a situação](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) ou até retire-os de sua comunidade, se eles não estiverem dispostos a colaborar construtivamente.
+Às vezes, quando você diser "não", seu potencial contribuidor pode se sentir chateado ou criticar sua decisão. Se o comportamento se tornar hostil, [siga esses passos para contornar a situação](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) ou até retire-os de sua comunidade, se eles não estiverem dispostos a colaborar construtivamente.
 
 ### Adote mentoria
 
 Talvez alguém na sua comunidade regularmente envie contribuições que não preenchem os padrões do seu projeto. Pode ser frustrante para ambas as partes repetidamente passarem por rejeições.
 
-Se você vir que alguém está empolgado com seu projeto, mas precisa de um pouco de polimento, seja paciente. Explique claramente em cada situação por que suas contribuições não passam pelas expectativas do projeto. Tente mostrá-los uma tarefa mais fácil ou menos ambígua, como um Issue com a tag _"bom primeiro bug"_ para que iniciem. Se você tiver tempo, considere dar mentoria durante a primeira contribuição ou achar alguém na sua comunidade que esteja disposto a fazê-lo.
+Se você perceber que alguém está empolgado com seu projeto, mas precisa de um pouco de polimento, seja paciente. Explique claramente em cada situação porque suas contribuições não passam pelas expectativas do projeto. Tente mostrá-los uma tarefa mais fácil ou menos ambígua, como um issue com a tag _"primeiro bug bom"_ para que iniciem. Se você tiver tempo, considere dar mentoria durante a primeira contribuição ou achar alguém na sua comunidade que esteja disposto a fazê-lo.
 
 ## Alavancando sua comunidade
 
@@ -185,7 +185,7 @@ Se outras pessoas estiverem entusiasmadas com essa direção, dê a elas acesso 
 
 @progrium [descobriu que](http://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documentar a visão de seu projeto, [Dokku](https://github.com/dokku/dokku), ajudou os objetivos sobreviverem mesmo depois que ele se afastou do projeto:
 
-> Eu escrevi uma página wiki descrevendo o que eu queria e por que eu queria. Por alguma razão isso se tornou uma surpresa para mim que os mantenedores começaram a mover o projeto naquela direção! Isso foi sempre exatamente como eu queria? Nem sempre. Mas mesmo assim levou o projeto mais perto ao que eu tinha escrito
+> Eu escrevi uma página wiki descrevendo o que eu queria e porque eu queria. Por alguma razão isso se tornou uma surpresa para mim que os mantenedores começaram a mover o projeto naquela direção! Isso foi sempre exatamente como eu queria? Nem sempre. Mas mesmo assim levou o projeto mais perto ao que eu tinha escrito.
 
 ### Deixe outros construírem as soluções que precisam
 
@@ -213,7 +213,7 @@ Assim como existem tarefas que outras pessoas podem te ajudar, há também taref
 
 Uma das maneiras mais importantes que você pode automatizar seu projeto é adicionando testes.
 
-Testes ajudarão contribuidores a sentirem confiança em relação a não quebrar nada. Eles também tornarão mais fácil seu processo de revisão e aceitar contribuições mais rapidamente. Quanto mais responsivo você for, mais engajada a comunidade poderá ser.
+Os testes ajudarão contribuidores a sentirem confiança em relação a não quebrar nada. Eles também tornarão mais fácil seu processo de revisão e aceitar contribuições mais rapidamente. Quanto mais responsivo você for, mais engajada a comunidade poderá ser.
 
 Configure testes automatizados que irão rodar em todas as futuras contribuições, e assegure que os testes podem ser facilmente rodados localmente por seus contribuintes. Exija que todas as contribuições no código passem nos testes antes de serem enviadas. Você ajudará a definir um padrão mínimo de qualidade em todos os envios. [Exigir checks de status](https://help.github.com/articles/about-required-status-checks/) no GitHub ajuda a garantir que nenhuma alteração seja mergeada sem os testes passarem.
 
@@ -237,7 +237,7 @@ Existe uma [grande variedade de ferramentas disponíveis](https://github.com/int
 * [mention-bot](https://github.com/facebook/mention-bot) menciona potenciais pessoas para revisão de Pull requests
 * [Danger](https://github.com/danger/danger) ajuda a automatização de revisão de código
 
-Para informar bugs e outras contribuições comuns, o GitHub tem [templates de Issues e Pull requests](https://github.com/blog/2111-issue-and-pull-request-templates), os quais você pode criar para agilizar a comunicação que você receber. Você também pode configurar [filtros de email](https://github.com/blog/2203-email-updates-about-your-own-activity) para gerenciar as notificações de email.
+Para informar bugs e outras contribuições comuns, o GitHub tem [templates de issues e pull requests](https://github.com/blog/2111-issue-and-pull-request-templates), os quais você pode criar para agilizar a comunicação que você receber. Você também pode configurar [filtros de email](https://github.com/blog/2203-email-updates-about-your-own-activity) para gerenciar as notificações de email.
 
 Se você quiser avançar mais um passo, guias de estilo para o código e "linters" podem padronizar suas contribuições e torná-las mais fáceis de revisar e aceitar.
 
@@ -245,11 +245,11 @@ Contudo, se seus padrões forem muito complicados, pode ser que aumentem as barr
 
 Se você não tiver certeza que ferramentas usar, veja o que outros projetos populares usam, especialmente no seu ecossistemas. Por exemplo, como funciona o processo de contribuição para outros módulos em Node? Usar ferramentas e métodos similares vai tornar seu processo mais familiar para seus contribuidores alvo.
 
-## É OK pausar
+## É "ok" pausar
 
 Trabalhar com open source já te trouxe alegrias. Talvez agora esteja começando a fazer você se sentir culpado ou evasivo.
 
-Talvez você esteja pressionado ou com um sentimento de pavor quando pensa sobre seus projetos. E enquanto isso, os Issues e Pull requests continuam crescendo.
+Talvez você esteja pressionado ou com um sentimento de pavor quando pensa sobre seus projetos. E enquanto isso, os issues e pull requests continuam crescendo.
 
 Exaustão é um problema real e sutil em trabalhos open source, especialmente entre mantenedor. Como responsável pela manutenção, sua felicidade é uma exigência não negociável para a sobrevivência de qualquer de seus projetos open source.
 
@@ -259,7 +259,7 @@ Assim como qualquer tipo de trabalho, tirar folgas regulares vai te ajudar a se 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/36432?v=3&s=400" class="pquote-avatar" alt="avatar">
-  Mantendo o projeto WP-CLI, descobri que preciso me manter feliz em primeiro lugar, e definir fronteiras claras no meu envolvimento. O melhor balanceamento que encontrei foi 2-5 por semana como uma parte da minha rotina de trabalho. Isso mantém meu envolvimento uma paixão e um sentimento de não tanto quanto um trabalho exatamente. Como eu priorizo as tarefas que estou trabalhando, consigo fazer um progresso constante no que acho que é mais importante.
+  Mantendo o projeto WP-CLI, descobri que preciso me manter feliz em primeiro lugar, e definir fronteiras claras no meu envolvimento. O melhor balanceamento que encontrei foi de 2 a 5 por semana como uma parte da minha rotina de trabalho. Isso mantém meu envolvimento uma paixão e um sentimento de não tanto quanto um trabalho exatamente. Como eu priorizo as tarefas que estou trabalhando, consigo fazer um progresso constante no que acho que é mais importante.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["Meus pesâmes, agora você é mantenedor de um projeto open source popular"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
@@ -273,4 +273,4 @@ Tirar folgas se aplica a mais que tirar férias. Se você não quer trabalhar em
 
 ## Cuide primeiro de você!
 
-Manter um projeto popular requer diferentes competências que nos estágios iniciais do crescimento, mas não deixa de ser menos gratificante. Como responsável pela manutenção do projeto, você vai aprender liderança e competências pessoais em um nível que poucas pessoas chegam à experimentar.Enquanto não é sempre fácil gerenciar, colocar limites claros e se manter num limite do que te deixa confortável te ajudará a se manter feliz, renovado e produtivo.
+Manter um projeto popular requer habilidades diferentes das etapas iniciais do crescimento, mas não é menos gratificante. Como mantenedor, você irá praticar liderança e habilidades pessoais em um nível que poucas pessoas conseguem experimentar. Embora nem sempre seja fácil de gerenciar, definir limites claros e apenas assumir o que você está confortável ajudará você a ficar feliz, atualizado e produtivo.
