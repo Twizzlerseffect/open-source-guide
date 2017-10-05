@@ -6,9 +6,10 @@ locale: pt-BR
 translations:
   en-US:
     name: English (US)
-    repository: github/open-source-guide
+    url: https://opensource.guide
   pt-BR:
-    name: Brasilian Portuguese
+    name: Português (BRA)
+    url: https://nandomoreira.me/open-source-guide/
     repository: nandomoreirame/open-source-guide
 
 exclude:
